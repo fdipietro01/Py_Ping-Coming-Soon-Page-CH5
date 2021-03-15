@@ -122,6 +122,9 @@
   font-weight: 600;
 }
 
+button:hover{
+  background-color: hsl(223, 100%, 71%);;
+}
 .button:focus,
 input:focus {
   outline: none;
